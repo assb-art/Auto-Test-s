@@ -1,7 +1,7 @@
 #language: ru
 
 @ExportScenarios
-@Tree   
+ 
 
 Функционал: Сброс настроек КФ
 
