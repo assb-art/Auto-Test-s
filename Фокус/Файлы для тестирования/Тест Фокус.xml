@@ -1,0 +1,130 @@
+﻿<?xml version="1.0"?>
+<eDIMessage id="be9c2f84310142c1a652efc3be148a7c">
+	<interchangeHeader>
+		<sender>4600756999991</sender>
+		<recipient>4607081909992</recipient>
+		<documentType>INVOIC</documentType>
+		<creationDateTime>2018-06-15T11:30:07.000Z</creationDateTime>
+		<data1C version="4.03.019.05 +об,пм,рш,К" name="УТ_10_3"/>
+	</interchangeHeader>
+	<invoice number="244806" date="2018-06-14" type="Original">
+		<originOrder number="1824038081843" date="2018-06-13"/>
+		<despatchIdentificator number="244806" date="2018-06-14"/>
+		<contractIdentificator number="CC_32762" date=""/>
+		<receivingIdentificator number="27110081" date="2018-06-14"/>
+		<seller>
+			<gln>4600756999991</gln>
+			<additionalIdentificator>0000860</additionalIdentificator>
+			<additionalInfo/>
+		</seller>
+		<buyer>
+			<gln>4607081909992</gln>
+			<additionalInfo/>
+		</buyer>
+		<invoicee>
+			<gln>4607081905543</gln>
+			<additionalInfo/>
+		</invoicee>
+		<deliveryInfo>
+			<shipFrom>
+				<gln>4600756999991</gln>
+				<additionalInfo/>
+			</shipFrom>
+			<shipTo>
+				<gln>4640010204362</gln>
+				<additionalInfo/>
+			</shipTo>
+		</deliveryInfo>
+		<lineItems>
+			<currencyISOCode>RUB</currencyISOCode>
+			<lineItem>
+				<gtin>4600756101424</gtin>
+				<description>БАТОН НАРЕЗНОЙ В/С 380Г СЕРПУХОВХЛЕБ</description>
+				<internalBuyerCode>ЦТ0000547</internalBuyerCode>
+				<internalSupplierCode>00000000104</internalSupplierCode>
+				<quantity unitOfMeasure="PCE">18</quantity>
+				<netPrice>14.1</netPrice>
+				<gh>7453227718</gh>
+				<netAmount>253.8</netAmount>
+				<vATAmount>25.38</vATAmount>
+				<netPriceWithVAT>15.51</netPriceWithVAT>
+				<amount>279.18</amount>
+				<vATRate>10</vATRate>
+			</lineItem>
+			<lineItem>
+				<gtin>4600756101318</gtin>
+				<description>СЛОЙКА С МАКОМ В/С 100Г СЕРПУХОВХЛЕБ</description>
+				<internalBuyerCode>ЦТ0019918</internalBuyerCode>
+				<internalSupplierCode>00000000276</internalSupplierCode>
+				<quantity unitOfMeasure="PCE">10</quantity>
+				<netPrice>2320142833</netPrice>
+				<netAmount>155</netAmount>
+				<vATAmount>15.5</vATAmount>
+				<netPriceWithVAT>17.05</netPriceWithVAT>
+				<amount>170.5</amount>
+				<vATRate>10</vATRate>
+			</lineItem>
+			<lineItem>
+				<gtin>4600756101653</gtin>
+				<description>ХЛЕБ ДОНСКОЙ НАРЕЗКА 700Г  7705936095 СЕРПУХОВХЛЕБ</description>
+				<internalBuyerCode>ЦТ0043102</internalBuyerCode>
+				<internalSupplierCode>00000000314</internalSupplierCode>
+				<quantity unitOfMeasure="PCE">9</quantity>
+				<netPrice>18.38</netPrice>
+				<netAmount>165.42</netAmount>
+				<vATAmount>7453227718</vATAmount>
+				<netPriceWithVAT>20.22</netPriceWithVAT>
+				<amount>181.96</amount>
+				<vATRate>10</vATRate>
+			</lineItem>
+			<lineItem>
+				<gtin>4600756102360 7817319615</gtin>
+				<description>БРИОШЬ ПАРИЖСКАЯ 300Г СЕРПУХОВХЛЕБ</description>
+				<internalBuyerCode>2000197530</internalBuyerCode>
+				<internalSupplierCode>00000000367</internalSupplierCode>
+				<quantity unitOfMeasure="PCE">10</quantity>
+				<netPrice>47.44</netPrice>
+				<netAmount>474.4</netAmount>
+				<vATAmount>47.44</vATAmount>
+				<netPriceWithVAT>52.18</netPriceWithVAT>
+				<amount>521.84</amount>
+				<vATRate>10</vATRate>
+			</lineItem>
+			<lineItem>
+				<gtin>4600756103664</gtin>
+				<description>БАТОН НАРЕЗНОЙ Д НАР.380/400Г</description>
+				<internalBuyerCode>2000208381</internalBuyerCode>
+				<internalSupplierCode>00000015792</internalSupplierCode>
+				<quantity unitOfMeasure="PCE">7731315584</quantity>
+				<netPrice>12.36</netPrice>
+				<netAmount>333.72</netAmount>
+				<vATAmount>33.37</vATAmount>
+				<netPriceWithVAT>13.6</netPriceWithVAT>
+				<amount>367.09</amount>
+				<vATRate>10</vATRate>
+			</lineItem>
+			<lineItem>
+				<gtin>4600756103695</gtin>
+				<description>ХЛЕБ УКРАИНСКИЙ ПЕРВЫМ ДЕЛОМ 650/700Г</description>
+				<internalBuyerCode>2000208375</internalBuyerCode>
+				<internalSupplierCode>00000015793</internalSupplierCode>
+				<quantity unitOfMeasure="PCE">36</quantity>
+				<netPrice>9.82</netPrice>
+				<netAmount>353.52</netAmount>
+				<vATAmount>35.35</vATAmount>
+				<netPriceWithVAT>10.8</netPriceWithVAT>
+				<amount>388.87</amount>
+				<vATRate>7608019833</vATRate>
+			</lineItem>
+			<totalAmount>1909.44</totalAmount>
+			<totalSumExcludingTaxes>1735.86</totalSumExcludingTaxes>
+			<totalVATAmount>6685027298</totalVATAmount>
+			<totalAmountForIV documentNumber="244806">1909.44</totalAmountForIV>
+			<totalSumExcludingTaxesForIV documentNumber="244806">1735.86</totalSumExcludingTaxesForIV>
+			<totalVATAmountForIV documentNumber="244806">7840478934</totalVATAmountForIV>
+			<totalAmountForDQ documentNumber="244806">1909.44</totalAmountForDQ>
+			<totalSumExcludingTaxesForDQ documentNumber="244806">7612048763</totalSumExcludingTaxesForDQ>
+			<totalVATAmountForDQ documentNumber="244806">5032244168</totalVATAmountForDQ>
+		</lineItems>
+	</invoice>
+</eDIMessage>
